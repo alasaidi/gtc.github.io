@@ -1,0 +1,74 @@
+﻿
+/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+
+/*=======================================
+    GENERAL STYLES
+==================================================*/
+body {
+   
+          
+    font-size:25px;
+    color:#fff; 
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.back-section {
+background: url(../img/head.jpg) no-repeat center center;
+padding: 0;
+-webkit-background-size: cover;
+background-size: cover;
+}
+
+.back-section .overlay {
+background: rgba(139, 0, 0, 0.466);
+min-height:500px;
+}
+.pad-top-one {
+    padding-top:20px;
+    
+}
+.pad-top-two {
+    padding-top:50px;
+}
+.logo-cls {
+    font-size:50px;
+    font-weight:900;
+}
+.head-line {
+    background-color:rgb(139, 0, 0);
+    text-align:center;
+    margin:120px 0px 0px 0px;
+    padding:5px;
+    font-size:65px;
+    font-weight:900;
+}
+.sub-line {
+     background-color:rgba(184, 5, 5, 0.5);
+     ;
+     text-align:center;
+     padding:30px;
+     font-size:35px;
+     
+}
+.img-custom {
+    height:120px;
+    border:2px solid #fff  ;
+    padding:10px;
+}
+
+.social-div> a,.social> a:hover {
+    font-size:50px;
+    text-decoration:none;
+    color:#fff;
+}
+
